@@ -11,9 +11,8 @@ Please note we have a code of conduct, please follow it in all your interactions
 3. Fork the repo. (Top right of the screen)
   ![how to fork](assets/images/fork.png)
   Now you have a copy at www.github.com/YOURUSERNAME/REPONAME
-4. Clone the copy to your local machine. From your terminal: `$ git clone https://www.github.com/YOURUSERNAME/REPONAME`
+4. Clone the copy to your local machine. From your terminal: `$ git clone https://github.com/YOURUSERNAME/REPONAME.git`
   (You'll need to have git installed for this step.)
-5. Get to coding! Or designing! Get it done.
 6. Get your changes pushed up to your remote. `$ git push origin master`
 7. From YOUR REPO, navigate to the "Pull Requests" tab and open a pull request.
   ![how to pull request](assets/images/pr.png)
