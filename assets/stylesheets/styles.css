@@ -2,3 +2,37 @@
   background-color: #029393;
   color: #fff;
 }
+.navbar {
+   margin-bottom: 0px;
+}
+.light {
+   font-weight: lighter;
+}
+.header-line {
+   margin-bottom: 30px;
+}
+.fa .fa-meetup {
+   color: black;
+}
+.month {
+   margin-bottom: 0px;
+   text-align: center;
+}
+.day {
+   margin-top: 0px;
+   text-align: center;
+}
+.meetup {
+   margin-top: 5px;
+}
+.color {
+   border: 2px solid grey;
+   margin-bottom: 50px;
+}
+.bottom {
+   border-bottom: 1px solid lightgrey;
+}
+.upcoming {
+   text-align: center;
+   margin-bottom: 20px;
+}
